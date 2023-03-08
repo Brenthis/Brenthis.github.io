@@ -1,0 +1,102 @@
+body {
+  background-image: url("https://static.vecteezy.com/system/resources/previews/002/037/924/original/abstract-blue-background-with-beautiful-fluid-shapes-free-vector.jpg");
+  color: whitesmoke;
+}
+
+header, footer {
+  height: 90px;
+  background-color: #b2d2dd;
+}
+
+h1,
+h2,
+h3 {
+  padding: 5px;
+  font-family: "Montserrat", sans-serif;
+}
+
+p {
+  padding: 10px;
+}
+
+.logo {
+  height: 90px;
+}
+
+.imagen-perfil {
+  padding: 15px;
+  height: 450px;
+  border-radius: 50%;
+}
+
+.imagen-contacto {    
+    float: left;
+    padding: 15px;
+}
+
+nav ul {
+  float: right;
+  margin-right: 15px;
+  padding: 30px;
+}
+
+nav ul li {
+  font-family: "Merriweather Sans", sans-serif;
+  text-transform: uppercase;
+  display: inline-block;
+}
+
+nav ul li a {
+  padding: 15px;
+}
+
+ul {
+  list-style: none;
+  padding: 0px;
+}
+
+section {
+  font-family: "Montserrat", sans-serif;
+  margin: 15px;
+  padding: 15px;
+  text-align: center;
+}
+
+.section1,
+.section2,
+.section3,
+.section4 {
+  background-color: #b2d2dd;
+  color: #434540;
+}
+
+.section4 {
+  text-align: right;
+}
+
+.section4 h3 {
+  text-align: center;
+}
+
+a {
+  text-decoration: none;
+  color: #2b3467;
+}
+
+a:visited {
+  color: #287cb4;
+}
+
+a:hover {
+  font-style: italic;
+  color: #f5f5f5;
+}
+
+.contenedor-formulario {
+  display: inline-block;
+}
+
+.formulario {
+  padding: 15px;
+  display: block;
+}
